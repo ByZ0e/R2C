@@ -1,0 +1,21 @@
+{
+    "valid_seen": [
+    ],
+    "valid_unseen": [
+        {
+            "repeat_idx": 0,
+            "task": "look_at_obj_in_light-Book-None-DeskLamp-308/trial_T20190908_020048_814402"
+        },
+        {
+            "repeat_idx": 2,
+            "task": "look_at_obj_in_light-Newspaper-None-FloorLamp-219/trial_T20190907_171015_909996"
+        },
+        {
+            "repeat_idx": 1,
+            "task": "pick_and_place_simple-BaseballBat-None-Bed-308/trial_T20190906_185515_986084"
+        },
+
+
+
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "valid_unseen":[  
+        {
+            "repeat_idx": 0,
+            "task": "pick_heat_then_place_in_recep-Apple-None-SinkBasin-10/trial_T20190907_020258_749030"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_heat_then_place_in_recep-Apple-None-GarbageCan-10/trial_T20190908_145356_918528"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_heat_then_place_in_recep-Mug-None-CoffeeMachine-10/trial_T20190907_171933_349922"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_heat_then_place_in_recep-Potato-None-GarbageCan-10/trial_T20190907_161817_163233"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_heat_then_place_in_recep-TomatoSliced-None-SinkBasin-10/trial_T20190909_025340_208825"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_heat_then_place_in_recep-Apple-None-Fridge-10/trial_T20190906_182435_622538"
+        }
+    ],
+    "valid_seen":[
+        {
+            "repeat_idx": 0,
+            "task": "pick_heat_then_place_in_recep-PotatoSliced-None-SinkBasin-13/trial_T20190909_115736_122556"
+        }
+    ]
+}

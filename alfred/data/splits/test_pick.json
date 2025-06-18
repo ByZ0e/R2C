@@ -1,0 +1,31 @@
+{
+    "valid_unseen":[  
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_simple-SoapBottle-None-Toilet-424/trial_T20190907_004351_281384"
+        }, 
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_simple-SoapBottle-None-Toilet-424/trial_T20190907_004321_405868"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_simple-Plunger-None-Cabinet-424/trial_T20190908_021510_064551"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_simple-Mug-None-Desk-308/trial_T20190908_125200_737896"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_simple-BaseballBat-None-Bed-308/trial_T20190906_185515_986084"
+        }
+        
+    ],
+    "valid_seen":[
+        {
+            "repeat_idx": 0,
+            "task": "pick_heat_then_place_in_recep-PotatoSliced-None-SinkBasin-13/trial_T20190909_115736_122556"
+        }
+    ]
+}

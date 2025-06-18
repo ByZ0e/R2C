@@ -1,0 +1,96 @@
+{
+    "valid_unseen": [
+        {
+            "repeat_idx": 0,
+            "task": "pick_clean_then_place_in_recep-Egg-None-Microwave-10/trial_T20190909_120554_888709"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_clean_then_place_in_recep-Knife-None-CounterTop-10/trial_T20190909_110531_148235"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_heat_then_place_in_recep-AppleSliced-None-GarbageCan-10/trial_T20190908_073749_086690"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_heat_then_place_in_recep-Tomato-None-GarbageCan-10/trial_T20190908_225359_617900"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_heat_then_place_in_recep-Apple-None-SinkBasin-10/trial_T20190907_020258_749030"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_cool_then_place_in_recep-Potato-None-Microwave-10/trial_T20190907_033306_962974"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_cool_then_place_in_recep-Egg-None-SinkBasin-10/trial_T20190907_173149_648833"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_cool_then_place_in_recep-Bread-None-CounterTop-10/trial_T20190908_091835_825830"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_simple-Plunger-None-Cabinet-424/trial_T20190908_021537_611374"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_simple-BaseballBat-None-Bed-308/trial_T20190906_185459_653538"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_simple-Vase-None-Safe-219/trial_T20190908_205204_244321"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_simple-Pencil-None-Shelf-308/trial_T20190908_122024_052056"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "look_at_obj_in_light-Pencil-None-DeskLamp-308/trial_T20190908_220656_510400"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "look_at_obj_in_light-KeyChain-None-FloorLamp-219/trial_T20190909_103543_580765"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "look_at_obj_in_light-Box-None-FloorLamp-219/trial_T20190907_103005_855069"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "look_at_obj_in_light-Mug-None-DeskLamp-308/trial_T20190908_161733_213242"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "look_at_obj_in_light-CD-None-DeskLamp-308/trial_T20190908_142046_281296"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "look_at_obj_in_light-Book-None-DeskLamp-308/trial_T20190908_144951_587345"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "look_at_obj_in_light-Newspaper-None-FloorLamp-219/trial_T20190907_171015_909996"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "look_at_obj_in_light-RemoteControl-None-FloorLamp-219/trial_T20190909_032758_971610"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "look_at_obj_in_light-Statue-None-FloorLamp-219/trial_T20190908_041411_333458"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_with_movable_recep-Spoon-Mug-CounterTop-10/trial_T20190907_155006_533262"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_with_movable_recep-Spoon-Pan-SinkBasin-10/trial_T20190908_092900_630408"
+        }
+    ]
+}

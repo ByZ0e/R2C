@@ -1,0 +1,22 @@
+{
+    "tests_seen": [
+        {
+            "repeat_idx": 0,
+            "task": "trial_T20190906_232320_070866"
+        }
+    ],
+    "tests_unseen": [
+        {
+            "repeat_idx": 0,
+            "task": "trial_T20190908_123456_669219"
+        },
+        {
+            "repeat_idx": 1,
+            "task": "trial_T20190908_123456_669219"
+        },
+        {
+            "repeat_idx": 2,
+            "task": "trial_T20190908_123456_669219"
+        }
+    ]
+}

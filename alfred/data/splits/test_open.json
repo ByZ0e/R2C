@@ -1,0 +1,30 @@
+{
+    "valid_seen": [
+    ],
+    "valid_unseen": [
+        {
+            "repeat_idx": 0,
+            "task": "pick_clean_then_place_in_recep-Spatula-None-Drawer-10/trial_T20190907_080825_222432"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_simple-SaltShaker-None-Drawer-10/trial_T20190909_021728_339782"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_simple-PepperShaker-None-Drawer-10/trial_T20190918_154326_823501"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_two_obj_and_place-KeyChain-None-Safe-219/trial_T20190909_012027_782483"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_simple-Vase-None-Safe-219/trial_T20190908_205221_748352"
+        },
+        {
+            "repeat_idx": 0,
+            "task": "pick_and_place_simple-Watch-None-Safe-219/trial_T20190907_074524_006355"
+        }
+    ]
+}
